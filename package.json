@@ -17,7 +17,7 @@
   "dependencies": {
     "gavel": "~0.2.6",
     "winston": "~0.7.2",
-    "protagonist": "~0.6.1",
+    "protagonist": "~0.8.0",
     "uri-template": "~0.4.1",
     "async": "~0.2.9",
     "optimist": "~0.6.0",
@@ -26,19 +26,19 @@
     "marked": "~0.3.0"
   },
   "devDependencies": {
-    "coffee-script": "1.6.3",
+    "coffee-script": "~1.7.1",
     "coffee-errors": "~0.8.4",
-    "mocha": "1.17.0",
-    "chai": "~1.8.1",
-    "coffee-coverage": "0.4.1",
+    "mocha": "~1.17.1",
+    "chai": "~1.9.0",
+    "coffee-coverage": "~0.4.2",
     "jscoverage": "0.3.8",
-    "coveralls": "~2.6.1",
+    "coveralls": "~2.8.0",
     "mocha-lcov-reporter": "0.0.1",
-    "codo": "2.0.3",
-    "sinon": "~1.7.3",
+    "codo": "~2.0.6",
+    "sinon": "~1.9.0",
     "proxyquire": "~0.5.1",
     "nock": "~0.27.1",
-    "express": "~3.4.3"
+    "express": "~3.5.0"
   },
   "keywords": [
     "api",
