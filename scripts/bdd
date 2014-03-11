@@ -1,2 +1,2 @@
 #!/bin/sh
-find ./test/ -name '*-test.coffee' | xargs mocha -w --timeout 20000 --reporter spec --compilers 'coffee:coffee-script'
+find ./test/ -name '*-test.coffee' | xargs ./node_modules/.bin/mocha -w --timeout 20000 --reporter spec --compilers 'coffee:coffee-script'
